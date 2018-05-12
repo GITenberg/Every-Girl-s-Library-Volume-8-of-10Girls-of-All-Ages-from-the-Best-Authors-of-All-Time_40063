@@ -1,0 +1,31 @@
+_repo: Every-Girl-s-Library-Volume-8-of-10Girls-of-All-Ages-from-the-Best-Authors-of-All-Time_40063
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40063-h/images/i_cover.jpg
+creator:
+  editor:
+    agent_name: Fitzhugh, Percy Keese
+    aliases:
+    - Fitzhugh, P. K. (Percy Keese)
+    - Fitzhugh, Percy K.
+    birthdate: 1876
+    deathdate: 1950
+    gutenberg_agent_id: '2132'
+    url: http://www.gutenberg.org/2009/agents/2132
+    wikipedia: http://en.wikipedia.org/wiki/Percy_Keese_Fitzhugh
+description: ''
+gutenberg_issued: '2012-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40063'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature -- Collections'
+- !lcc 'PN'
+title: "Every Girl's Library, Volume 8 of 10\r\nA Collection of Appropriate and Instructive\
+  \ Reading for Girls of All Ages from the Best Authors of All Time"
+url: http://www.gutenberg.org/ebooks/40063
